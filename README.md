@@ -1,6 +1,9 @@
 # WRAPWRAPWRAP is a digital purchase order generator specifically designed to help production office workers and producers easily and efficiently generate purchase orders that can be accessed via the web. Currently purchase orders are made on static microsoft excel templates that often exist only locally and require manual input, file conversion, and compilation to create a purchase order. The vision for this project is to create a simple form which stores the pertenet data and can spit it out in a variety of manners that can be used for production accounting. 
 
+## ERD
 
+![Alt text](image.png)
+ 
 ## Steps
 
 **Install Gulp Globally**
